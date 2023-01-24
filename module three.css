@@ -1,0 +1,22 @@
+h2{
+text-align: center;
+color: black ;
+margin-top: 14px;
+margin-bottom: 14px;
+}
+.head{
+    border: 14px rgb(10, 10, 10);
+        padding: 10px 10px 10px 10px;
+        border: 2px aliceblue solid;
+        box-sizing: border-box;
+        background-color: aliceblue;
+        
+    
+
+}
+.chicken{
+    text-align: center;
+    color: #000 bold;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
